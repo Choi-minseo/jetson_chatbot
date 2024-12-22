@@ -1,6 +1,6 @@
-# How Function Calling Works in My Code
+# How Function Calling Works in Code
 
-**Function Calling** in my code allows OpenAI to dynamically invoke specific Python functions during a conversation. Based on user input, the AI identifies the appropriate function to call, executes it, and integrates the results into its response. This capability enables the chatbot to interact with real-world data and provide intelligent, context-aware replies.
+**Function Calling** in code allows OpenAI to dynamically invoke specific Python functions during a conversation. Based on user input, the AI identifies the appropriate function to call, executes it, and integrates the results into its response. This capability enables the chatbot to interact with real-world data and provide intelligent, context-aware replies.
 
 ---
 
