@@ -1,5 +1,3 @@
-# jetson_chatbot
-
 # Jetson Chatbot for CO2 Monitoring and Ventilation Alerts
 
 This project implements a **Jetson-based chatbot** capable of measuring CO2 levels using a **CM1106 sensor**, determining ventilation needs, and interacting with users through a chat interface. The system integrates Gradio for the chatbot UI and OpenAI for intelligent responses.
@@ -428,8 +426,7 @@ demo.launch(share=True, debug=True)
 
 **Function Calling** in my code allows OpenAI to dynamically invoke specific Python functions during a conversation. Based on user input, the AI identifies the appropriate function to call, executes it, and integrates the results into its response. This capability enables the chatbot to interact with real-world data and provide intelligent, context-aware replies.
 
-For detailed explanation, [click here](https://github.com/hoohsh/jetson_chatbot/blob/main/fuction_calling.md).
-
+For detailed explanation, [click here]
 
 ---
 
